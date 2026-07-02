@@ -7,7 +7,7 @@ def call() {
             alternativeDeploymentContext: '',
             credentialsId: 'tomcat',
             path: '',
-            url: 'http://54.160.144.88:8081/'
+            url: 'http://98.89.44.72:8081/'
         )
     ],
     contextPath: 'insta',
